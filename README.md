@@ -1,2 +1,2 @@
-# PaceMaths
-Mathematical quiz using android project.
+# BOOKBUS
+Smart bus routing android application
